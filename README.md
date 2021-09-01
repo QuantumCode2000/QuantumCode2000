@@ -12,14 +12,16 @@ Soy un chico boliviano apasionado por aprender sobre tecnología, puedes ver un 
 
 <h2 align="center">
   <p>Stuff I know and use</p>
-<img alt="Visual Studio Code" width="50px"  src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
+<img alt="Visual Studio Code" height="50px"  src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
 <img alt="JavaScript" height="50px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
-<img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img alt="React" width="50px" height="50px" src="https://reactjs.org" />
-<img alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img alt="HTML5" height="50px" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" />
+<img alt="CSS3" height="50px" src="https://maxcdn.icons8.com/Share/icon/Logos//css31600.png" />
+<img alt="GitHub" height="50px" src="http://pngimg.com/uploads/github/github_PNG53.png" />
+<img alt="Git" height="50px" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
+<img alt="React" height="50px" src="https://sc04.alicdn.com/kf/U0721a48732814105aae97d2245765dd2a.png" />
+<img alt="C++" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <br> <br> 
+ 
 
 <p>Social Media</p>
 <a href="https://www.linkedin.com/in/jorge-luis-tancara-nina-2700421b2/">
