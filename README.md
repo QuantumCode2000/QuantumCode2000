@@ -21,13 +21,10 @@ Soy un chico boliviano apasionado por aprender sobre tecnología, puedes ver un 
 <br> <br> 
 
 <p>Social Media</p>
-<a href="https://www.instagram.com/mae_mazcortwo/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/nina-maeva-mazadiego-cortes-156474213/">
+<a href="https://www.linkedin.com/in/jorge-luis-tancara-nina-2700421b2/">
     <img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@mae_mazcort">
+<a href="https://twitter.com/JorgeLuisTanca1">
     <img src="https://img.shields.io/badge/TikTok-E4405F?style=for-the-badge&logo=tiktok&logoColor=white">
 </a> </h2>
 
@@ -35,7 +32,3 @@ Soy un chico boliviano apasionado por aprender sobre tecnología, puedes ver un 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MaeMazcort&style=flat-square&color=0066ff" alt="Visitors Badge"/>
 </p>
-
-- [Twitter](https://twitter.com/JorgeLuisTanca1)
-- [Linkedin](https://www.linkedin.com/in/jorge-luis-tancara-nina-2700421b2/)
-- [Email](tancaraninajorgeluis@gmail.com)
