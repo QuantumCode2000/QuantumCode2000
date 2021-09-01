@@ -11,21 +11,21 @@ Soy un chico boliviano apasionado por aprender sobre tecnología, puedes ver un 
 
 <h2 align="center">
 <p>Stuff I know and use</p>
-<div height="100px" width="200px"><img alt="Visual Studio Code" height="70px"  src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
+<div max-height="100px" max-width="200px"><img alt="Visual Studio Code" height="70px"  src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
 <p>Visual Studio Code</p></div>
-<div height="100px" width="200px"><img alt="JavaScript" height="70px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
+<div max-height="100px" max-width="200px"><img alt="JavaScript" height="70px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
 <p>JavaScript</p></div>
-<div height="100px" width="200px"><img alt="HTML5" height="70px" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" />
+<div max-height="100px" max-width="200px"><img alt="HTML5" height="70px" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" />
 <p>HTML5</p></div>
-<div height="100px" width="200px"><img alt="CSS3" height="70px" src="https://maxcdn.icons8.com/Share/icon/Logos//css31600.png" />
+<div max-height="100px" max-width="200px"><img alt="CSS3" height="70px" src="https://maxcdn.icons8.com/Share/icon/Logos//css31600.png" />
 <p>CSS3</p></div>
-<div height="100px" width="200px"><img alt=GitHub" height="70px" src="http://pngimg.com/uploads/github/github_PNG53.png" />
+<div max-height="100px" max-width="200px"><img alt=GitHub" height="70px" src="http://pngimg.com/uploads/github/github_PNG53.png" />
 <p>Github</p></div>
-<div height="100px" width="200px"><img alt=Git" height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
+<div max-height="100px" max-width="200px"><img alt=Git" height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
 <p>Git</p></div>
-<div height="100px" width="200px"><img alt=React" height="70px" src="https://sc04.alicdn.com/kf/U0721a48732814105aae97d2245765dd2a.png"/>
+<div max-height="100px" max-width="200px"><img alt=React" height="70px" src="https://sc04.alicdn.com/kf/U0721a48732814105aae97d2245765dd2a.png"/>
 <p>ReactJS</p></div>
-<div height="100px" width="200px"><img alt=C++" height="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<div max-height="100px" max-width="200px"><img alt=C++" height="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <p>C++</p></div>
 <br> <br>
  
