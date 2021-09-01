@@ -1,15 +1,15 @@
-### Hi there 👋
+# Jorge Luis Tancara Nina - @QuantumCode2000
 
+## Hola 👋
+<!--
+Soy un chico boliviano apasionado por aprender sobre tecnología, puedes ver un poco de mi portafolio en programación [acá](https://kevinmorales.xyz/). En este momento te puedo ayudar sobre marketing digital, SEO y consejos para impulsar tu proyecto.-->
 
-**QuantumCode2000/QuantumCode2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Actualmente soy Estudiante de Ingenieria de Sistemas en la Escuela Militar de Ingenieria [@EMI](https://www.emi.edu.bo/)
+- ✏ Tengo algunos cursos concluidos en Platzi sobre Desarrollo Web  [blog](https://platzi.com)
+- 💭 Pregúntame todo lo que quieras si se algo te respondere.
 
-Here are some ideas to get you started:
+## Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Twitter](https://twitter.com/JorgeLuisTanca1)
+- [Linkedin](https://www.linkedin.com/in/jorge-luis-tancara-nina-2700421b2/)
+- [Email](tancaraninajorgeluis@gmail.com)
