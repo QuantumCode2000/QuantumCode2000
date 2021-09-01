@@ -25,10 +25,10 @@ Soy un chico boliviano apasionado por aprender sobre tecnología, puedes ver un 
     <img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://twitter.com/JorgeLuisTanca1">
-    <img src="https://img.shields.io/badge/TikTok-E4405F?style=for-the-badge&logo=tiktok&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=tiktok&logoColor=white">
 </a> </h2>
 
 <br />
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MaeMazcort&style=flat-square&color=0066ff" alt="Visitors Badge"/>
+<img src="https://komarev.com/ghpvc/?username=QuantumCode2000&style=flat-square&color=0066ff" alt="Visitors Badge"/>
 </p>
