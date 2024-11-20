@@ -1,4 +1,4 @@
-# Jorge Luis Tancara Nina - @QuantumCode2000
+#  @QuantumCode2000
 
 ## Hola 👋
 <!--
